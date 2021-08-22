@@ -1,0 +1,10 @@
+.wrapper--footer .container {
+    position: fixed;
+    background-color: #424242;
+}
+
+@media screen and (max-width: 540px){
+    .flexRow--header{
+       width: 25%;
+    }
+  }

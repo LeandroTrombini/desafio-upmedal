@@ -1,0 +1,19 @@
+.footerLayout{
+    background-color: #424242;
+}
+/*
+.footerLayout {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3.4em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+*/
+@media screen and (max-width: 540px){
+    .footerLayout{
+        background-color: #791919;
+    }
+}

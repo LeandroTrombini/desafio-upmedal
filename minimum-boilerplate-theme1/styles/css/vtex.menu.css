@@ -1,0 +1,23 @@
+.styledLinkContent {
+    color: #fff;
+}
+.styledLinkContent:hover {
+    color: #59ff00;
+    transition: 0.5s;
+}
+.styledLinkContent:active {
+    color: #59ff00;
+    
+}
+
+.menuItem::after {
+    content: " ";
+    display: flex;
+    width: 100%;
+    height: 1px;
+    background-color: transparent;
+}
+
+.menuItem::hover::after{
+    background-color: #59ff00;
+}

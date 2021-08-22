@@ -1,0 +1,57 @@
+
+.caretIcon--banner {
+    color: aliceblue;
+}
+
+.caretIcon{
+    width:15px;
+    
+    height:35px;
+    margin-top: 250px;
+    margin-left: 5rem;
+    margin-right:5rem;
+    border-radius:5px;
+    color: rgba(225,0225,225,0.4);
+}
+.caretIcon:hover {
+    background-color:rgba(255,255,255,0.3);
+    color: #fff;
+}
+.sliderLayoutContainer {
+    margin-top: 5%;
+}
+
+.slideChildrenContainer {
+    width: 70%;
+    position: relative;
+    margin-left: auto;
+    margin-right:auto; 
+    border-radius: 20px;
+  
+}
+
+.sliderArrows {
+    position: absolute; /*--*/
+    bottom: -40px;
+    
+}
+
+.paginationDotsContainer {
+    position: absolute;
+   
+    align-items: center;
+    
+    bottom: -20px;
+}
+.paginationDot--isActive {
+  background-color: #59ff00;
+}
+
+/*-----*/
+
+
+@media screen and (min-width: 540px){
+    .slideChildrenContainer{
+        
+    }
+}

@@ -1,0 +1,85 @@
+/*
+.imageElement--cover {
+    object-fit: cover;
+  }
+*/
+
+.container {
+ 
+  position: relative;
+  margin-left: auto;
+  margin-right:auto; 
+  overflow: hidden;
+  
+}
+
+
+.imageElement {
+  border-radius: 10px;
+  width: 100%;
+ 
+}
+.caretIcon--carousel {
+ bottom: 0;
+}
+
+.logoContainer {
+  
+}
+.logoImage {
+  width: 10em;
+  padding-top: 15px;
+}
+
+
+.searchBarContainer {
+  
+}
+.searchBarContainer :global(.vtex-input-prefix__group) {
+  border: none;
+  border-radius: 0;
+  border-bottom: thin solid #fff;
+  width:100%;
+  
+}
+.searchBarContainer :global(.vtex-input__suffix) {
+  background: transparent;color: #fff;
+}
+.searchBarContainer :global(.vtex-styleguide-9-x-input) {
+  background: transparent;
+  color: #59FF00;
+}
+
+.searchIcon {
+  color: #fff;
+}
+
+.productImagesGallerySlide {
+  max-height: 300px;
+  margin-bottom: 50px;
+}
+
+.swiperCaretPrev,
+.swiperCaretNext {
+  top: 330px;
+}
+/*
+.carouselGaleryThumbs {
+  display:none;
+}
+*/
+
+@media screen and (max-width: 540px){
+  .logoImage{
+      width:50%;
+  }
+ .searchBarContainer {
+   width: 100%;
+ }
+ :global(.vtex-items-stretch) {
+  
+ }
+ .sizeDesktop {
+  width: 25px;
+ }
+}

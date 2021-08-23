@@ -13,15 +13,14 @@ https://trombini--hiringcoders2021.myvtex.com/
 
 ### Tecnologias:
 
-CSS -
+VTEX.IO -
 TypeScript -
 NodeJS -
 React -
-Express -
 DynamoDB -
 AWS Amplify -
 AWS API Gateway -
-VTEX.IO
+CSS -
 
 
 ## Author:

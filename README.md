@@ -9,14 +9,14 @@
 
 ### Tecnologias:
 
-CSS
-TypeScript
-NodeJS
-React
-Express
-DynamoDB
-AWS Amplify
-AWS API Gateway
+CSS -
+TypeScript -
+NodeJS -
+React -
+Express -
+DynamoDB -
+AWS Amplify -
+AWS API Gateway -
 VTEX.IO
 
 

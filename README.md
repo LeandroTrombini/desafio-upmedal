@@ -2,7 +2,7 @@
 
 
 
-É uma reprodução do site www.upmedal.com.br feita com VTEX.IO e adicionando um modal com captura de leads salvando os dados em uma API Gateway da AWS com DynamoDB. Foi feito como desafio da segunda fase do programa HiringCoders em parceria com VTEX e AWS.
+É uma reprodução do site e-commerce www.upmedal.com.br feita com VTEX.IO e adicionando uma captura de leads salvando os dados em uma API Gateway da AWS com DynamoDB. Foi feito como desafio da segunda fase do programa HiringCoders em parceria com VTEX e AWS.
 
 
 ## Endereço

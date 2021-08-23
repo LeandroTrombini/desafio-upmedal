@@ -108,7 +108,7 @@
   },
   "rich-text#modalheader": {
     "props": {
-      "text": "## Faça Login!",
+      "text": "## Promoção!",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "textColor": "success",

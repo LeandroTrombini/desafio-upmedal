@@ -1,32 +1,15 @@
 .flexRowContent--header{
     background-color: #212121;
      z-index: 999;
-
-
 }
-
 .flexRow--header {
-   overflow: hidden;
-  
+   overflow: hidden;  
 }
-
 .flexRow{
     justify-content: center;
-    align-items: center;
-   
+    align-items: center;   
 }
-
 .flexColChild{
    z-index: 0;
 }
-/*
-.stretchChildrenWidth {
-    width: auto !important;
-}
-*/
 
-@media screen and (max-width: 540px){
-    .footerLayout{
-        
-    }
-}

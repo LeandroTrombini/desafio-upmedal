@@ -3,7 +3,7 @@ import Amplify from 'aws-amplify';
 import { API } from 'aws-amplify';
 import awsExports from "../src/aws-exports.js";
 import { Container, Button, Form } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './Title.css'
 
 interface TitleProps {}
 
@@ -35,9 +35,9 @@ const Title: StorefrontFunctionComponent<TitleProps> = ({}) => {
   return (
   <Container>
     <div>
-      <h3>Para receber notificações sebre novos produtos</h3>
-      <h2>Cadastre-se</h2>
-      <br/>
+      
+      
+     
         <Form>
           <Form.Group>
             <Form.Label>Nome</Form.Label>
@@ -51,7 +51,7 @@ const Title: StorefrontFunctionComponent<TitleProps> = ({}) => {
             <Form.Label>Mensagem</Form.Label>
             <Form.Control placeholder="Mensagem" onChange={e => updateFormState('message', e.target.value)} />
           </Form.Group>
-          <Button onClick={addContact}>Enviar</Button>
+          <Button onClick={addContact}>Login</Button>
         </Form>
       </div>
     </Container>

@@ -12,8 +12,3 @@
     padding-right: 2em;
 }
 */
-@media screen and (max-width: 540px){
-    .footerLayout{
-        background-color: #791919;
-    }
-}

@@ -3,10 +3,6 @@
   
     background-color: #424242;
 }
-
-.imageContainer {
-    
-}
 .buyButton :global(.vtex-button) {
     border: 1px solid #424242;
     color: #424242;

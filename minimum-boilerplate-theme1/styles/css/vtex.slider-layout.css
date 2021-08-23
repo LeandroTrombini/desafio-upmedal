@@ -31,7 +31,7 @@
 }
 
 .sliderArrows {
-    position: absolute; /*--*/
+    position: absolute; 
     bottom: -40px;
     
 }
@@ -45,13 +45,4 @@
 }
 .paginationDot--isActive {
   background-color: #59ff00;
-}
-
-/*-----*/
-
-
-@media screen and (min-width: 540px){
-    .slideChildrenContainer{
-        
-    }
 }

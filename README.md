@@ -7,8 +7,13 @@
 
 ## Endereço
 
-https://www.linkedin.com/feed/update/urn:li:activity:6835611298382905344/
+
 https://trombini--hiringcoders2021.myvtex.com/
+
+
+### Assistir um video demonstrativo
+
+https://www.linkedin.com/feed/update/urn:li:activity:6835611298382905344/
 
 
 ### Tecnologias:

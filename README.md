@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="upmedal" src=".github/upmedal2.gif" width="50%">
+  <img alt="upmedal" src="minimum-boilerplate-theme1/.github/upmedal2.gif" width="50%">
 </p>
 
 

@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="upmedal" src=".github/upmedal1.gif" width="50%">
+  <img alt="upmedal" src="minimum-boilerplate-theme1/.github/upmedal1.gif" width="50%">
 </p>
 
 <p align="center">
